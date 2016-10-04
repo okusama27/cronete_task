@@ -2,7 +2,7 @@
 
 [くろのて勉強会](http://cronote.connpass.com/)の課題を解く
 
-## Python勉強会 #3
+## Python勉強会 #3 (2016-09-27)
 [[Python] 部屋とYシャツとイテレータとジェネレータと私](http://cronote.connpass.com/event/39540/)の回
 
 ###1. 素数を返すジェネレーターを作ろう
