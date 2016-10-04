@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea/cronete_task.iml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
