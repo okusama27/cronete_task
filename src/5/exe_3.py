@@ -15,6 +15,7 @@
 
 def repeat(num):
     def _repeat(f):
+        @wraps(f)
         def _wrap(*args, **kwargs):
             for _ in range(num):
                 f(*args, **kwargs)
