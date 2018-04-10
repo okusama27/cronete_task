@@ -1,0 +1,8 @@
+{% extends "miyadaiku.themes.sample.blog!page_article.html" %}
+{% block container_body %}
+{{ article_metadata(page) }}
+<h1 class="article-title">{{ page.title }}</h1>
+<hr />
+<b style="font-size: 30px">刮目せよ:</b>
+<div class="article-body">{{ page.html }}</div>
+{% endblock container_body %}

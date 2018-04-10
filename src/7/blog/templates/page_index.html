@@ -1,0 +1,13 @@
+{% extends "miyadaiku.themes.sample.blog!page_index.html" %}
+{% block container_body %}
+  <ul>
+  {% for article in articles %}
+  <li>
+    {% if article.image %}<img src="{{ article.image }}" width="50" height="50" />{% endif %}
+    <a href="{{ article.path() }}">{{ article.title }}</a>
+  </li>
+  {% endfor %}
+  </ul>
+  {% if cur_page != 1 %}<a href="{{page.path_to(page, values=group_values, npage=cur_page-1)}}">&larr;</a>{% endif %}
+  {% if not is_last %}<a href="{{ page.path_to(page, values=group_values, npage=cur_page+1) }}">&rarr;</a>{% endif %}
+{% endblock container_body %}

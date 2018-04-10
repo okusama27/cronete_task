@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>sample</title><link href="http://localhost:8888/" rel="alternate"></link><link href="http://localhost:8888/atom.xml" rel="self"></link><id>http://localhost:8888/</id><updated>2018-04-10T00:00:00+09:00</updated><entry><title>test の記事</title><link href="http://localhost:8888/sample.html" rel="alternate"></link><published>2018-04-10T00:00:00+09:00</published><updated>2018-04-10T00:00:00+09:00</updated><id>tag:localhost,2018-04-10:/sample.html</id><summary type="html">
+&lt;div class="code-block"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'test'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bbb"&gt;
+&lt;div class="header_target" id="h__sample_2erst_1"&gt;&lt;/div&gt;&lt;h1&gt;bbb&lt;/h1&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;ccc&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</summary></entry><entry><title>testその2</title><link href="http://localhost:8888/sample2.html" rel="alternate"></link><published>2017-01-01T00:00:00+09:00</published><updated>2017-01-01T00:00:00+09:00</updated><id>tag:localhost,2017-01-01:/sample2.html</id><summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tables&lt;/th&gt;
+&lt;th align="center"&gt;Are&lt;/th&gt;
+&lt;th align="right"&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;col 3 is&lt;/td&gt;
+&lt;td align="center"&gt;right-aligned&lt;/td&gt;
+&lt;td align="right"&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;col 2 is&lt;/td&gt;
+&lt;td align="center"&gt;centered&lt;/td&gt;
+&lt;td align="right"&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;via: &lt;a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables"&gt;Markdown-Cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Hello, Miyadaiku</title><link href="http://localhost:8888/first.html" rel="alternate"></link><updated>2018-04-10T19:36:45Z</updated><id>tag:localhost:/first.html</id><summary type="html">&lt;p&gt;くろのて勉強会！&lt;/p&gt;</summary></entry></feed>

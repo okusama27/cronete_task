@@ -4,7 +4,7 @@
 site_url: http://localhost:8888/
 
 # Title of the site
-site_title: FIXME - site title
+site_title: sample
 
 # Default language code
 lang: ja-JP
@@ -16,6 +16,6 @@ charset: utf-8
 timezone: Asia/Tokyo
 
 # List of site theme
-# themes:
-#   - miyadaiku.themes.sample.blog
+themes:
+  - miyadaiku.themes.sample.blog
 
